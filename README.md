@@ -6,4 +6,4 @@
 
 
 <h2>Aperçu du projet</h2>
-<img src="https://github.com/ValerianMermoz/Sophie_Bluel/raw/main/assets/images/Overview.png">
+<img src="https://github.com/ValerianMermoz/Nina-Carducci/blob/main/assets/images/Overview.png">
